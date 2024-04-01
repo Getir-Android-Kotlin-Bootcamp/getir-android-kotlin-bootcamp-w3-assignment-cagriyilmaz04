@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wada811.viewbindingktx:viewbindingktx:3.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2ba7e89df4211b1cd07656d09b7e2db9/transformed/viewbindingktx-3.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2ba7e89df4211b1cd07656d09b7e2db9/transformed/viewbindingktx-3.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wada811.viewbindingktx/viewbindingktx/3.1.0/c4369835ae1f78bd8293781103cb99ffb47c06f0/viewbindingktx-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
