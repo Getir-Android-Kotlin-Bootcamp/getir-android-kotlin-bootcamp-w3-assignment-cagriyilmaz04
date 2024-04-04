@@ -3,6 +3,6 @@
 Getir Android Kotlin Bootcamp w3 Assignment
 
 ## Onboarding navigation akışını iki farklı akış biçimine getireceğiz. 
-Onboarding nav kalacak
+I made a navigation it's called nav_account.xml
 
-Account nav oluşturacak
+
